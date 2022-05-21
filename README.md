@@ -1,6 +1,9 @@
 -👋 Hi, I’m Aaditya Gupta
+
 -👀 I’m interested in living life to the fullest.
+
 -🌱 I’m currently learning Machine learning.
+
 -📫 How to reach me : aaditya207cgupta@gmail.com
 
 <!---
