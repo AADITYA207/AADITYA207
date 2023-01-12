@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aaditya207" alt="aaditya207" /></a> </p>
 
-- 🔭 I’m currently working on **Speech Recognition**
+- 🔭 I’m currently working on **Story visualization**
 
 - 🌱 I’m currently learning **Python frameworks**
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **It's better to know something about everything, than everything about something.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: aaditya207cgupta@gmail.com</h3>
 <p align="left">
 </p>
 
